@@ -126,7 +126,7 @@ We can provide interpolation data by passing a "render context object" as the se
 
 ``` js
 const context = {
-  title: 'hello',
+  title: 'Hello',
   meta: `
     <meta ...>
     <meta ...>
